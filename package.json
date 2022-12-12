@@ -1,5 +1,5 @@
 {
-  "name": "@vdcode/testit",
+  "name": "@vdcode/test-case-it",
   "version": "0.0.1",
   "description": "Test case builder experiment",
   "main": "dist/index.js",
